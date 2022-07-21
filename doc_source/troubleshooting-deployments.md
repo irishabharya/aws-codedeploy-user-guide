@@ -201,7 +201,7 @@ For information about how to find the wire logging file and enable and disable w
   + For Amazon Linux RHEL or Ubuntu server, run the following:
 
     ```
-    sudo service CodeDeploy-agent status
+    sudo service codedeploy-agent status
     ```
   + For Windows, run the following:
 
